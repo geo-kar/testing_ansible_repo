@@ -11,4 +11,4 @@
 # │ │ │ │ │
 # * * * * *  command to be executed
 
-39 11 * * * /apps/jboss-as/script.sh
+* * * * * /apps/jboss-as/script.sh
